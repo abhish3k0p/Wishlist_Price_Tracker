@@ -1,0 +1,476 @@
+[2025-11-12 12:33:51] [info] [Product 0] Starting price check for 8 products
+[2025-11-12 12:33:51] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 14499)
+[2025-11-12 12:33:52] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-12 12:33:53] [info] [Product 1] New price: 14499 (Changed: No)
+[2025-11-12 12:33:53] [info] [Product 1] Completed processing. Alerts sent: 
+[2025-11-12 12:33:53] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-12 12:33:54] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-12 12:33:55] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-12 12:33:55] [info] [Product 2] Completed processing. Alerts sent: 
+[2025-11-12 12:33:55] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-12 12:33:55] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-12 12:33:57] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-12 12:33:57] [info] [Product 3] Completed processing. Alerts sent: 
+[2025-11-12 12:33:58] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1399)
+[2025-11-12 12:33:59] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-12 12:33:59] [info] [Product 4] New price: 1499 (Changed: Yes)
+[2025-11-12 12:33:59] [info] [Product 4] Price history updated
+[2025-11-12 12:33:59] [info] [Product 4] Completed processing. Alerts sent: 0
+[2025-11-12 12:34:00] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 899)
+[2025-11-12 12:34:00] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-12 12:34:02] [info] [Product 5] New price: 899 (Changed: No)
+[2025-11-12 12:34:02] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-12 12:34:02] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-12 12:34:02] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-12 12:34:03] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-12 12:34:03] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-12 12:34:03] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-12 12:34:03] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-12 12:34:04] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-12 12:34:04] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-12 12:34:04] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-12 12:34:06] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-12 12:34:06] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-12 12:34:06] [info] [Product 0] Price check completed. Processed 8 products.
+[2025-11-12 12:37:03] [info] [Product 0] Starting price check for 8 products
+[2025-11-12 12:37:03] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 14399)
+[2025-11-12 12:37:04] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-12 12:37:05] [info] [Product 1] New price: 14499 (Changed: Yes)
+[2025-11-12 12:37:05] [info] [Product 1] Price history updated
+[2025-11-12 12:37:05] [info] [Product 1] Completed processing. Alerts sent: 0
+[2025-11-12 12:37:05] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-12 12:37:06] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-12 12:37:07] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-12 12:37:07] [info] [Product 2] Completed processing. Alerts sent: 0
+[2025-11-12 12:37:07] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-12 12:37:07] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-12 12:37:09] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-12 12:37:09] [info] [Product 3] Completed processing. Alerts sent: 0
+[2025-11-12 12:37:09] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1499)
+[2025-11-12 12:37:10] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-12 12:37:11] [info] [Product 4] New price: 1499 (Changed: No)
+[2025-11-12 12:37:11] [info] [Product 4] Completed processing. Alerts sent: 0
+[2025-11-12 12:37:11] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 899)
+[2025-11-12 12:37:11] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-12 12:37:13] [info] [Product 5] New price: 899 (Changed: No)
+[2025-11-12 12:37:13] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-12 12:37:14] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-12 12:37:14] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-12 12:37:14] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-12 12:37:14] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-12 12:37:15] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-12 12:37:15] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-12 12:37:15] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-12 12:37:16] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-12 12:37:16] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-12 12:37:18] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-12 12:37:18] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-12 12:37:18] [info] [Product 0] Price check completed. Processed 8 products.
+[2025-11-12 12:37:51] [info] [Product 0] Starting price check for 8 products
+[2025-11-12 12:37:51] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 13000)
+[2025-11-12 12:37:52] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-12 12:37:53] [info] [Product 1] New price: 14499 (Changed: Yes)
+[2025-11-12 12:37:53] [info] [Product 1] Price history updated
+[2025-11-12 12:37:53] [info] [Product 1] Completed processing. Alerts sent: 0
+[2025-11-12 12:37:54] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-12 12:37:54] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-12 12:37:55] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-12 12:37:55] [info] [Product 2] Completed processing. Alerts sent: 0
+[2025-11-12 12:37:56] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-12 12:37:56] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-12 12:37:57] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-12 12:37:57] [info] [Product 3] Completed processing. Alerts sent: 0
+[2025-11-12 12:37:58] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1499)
+[2025-11-12 12:37:58] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-12 12:37:59] [info] [Product 4] New price: 1499 (Changed: No)
+[2025-11-12 12:37:59] [info] [Product 4] Completed processing. Alerts sent: 0
+[2025-11-12 12:38:00] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 899)
+[2025-11-12 12:38:00] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-12 12:38:01] [info] [Product 5] New price: 899 (Changed: No)
+[2025-11-12 12:38:01] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-12 12:38:02] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-12 12:38:02] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-12 12:38:02] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-12 12:38:02] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-12 12:38:03] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-12 12:38:03] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-12 12:38:03] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-12 12:38:04] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-12 12:38:04] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-12 12:38:06] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-12 12:38:06] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-12 12:38:06] [info] [Product 0] Price check completed. Processed 8 products.
+[2025-11-12 12:40:30] [info] [Product 0] Starting price check for 8 products
+[2025-11-12 12:40:30] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 13000)
+[2025-11-12 12:40:31] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-12 12:40:32] [info] [Product 1] New price: 14499 (Changed: Yes)
+[2025-11-12 12:40:32] [info] [Product 1] Price history updated
+[2025-11-12 12:40:32] [info] [Product 1] Completed processing. Alerts sent: 0
+[2025-11-12 12:40:32] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-12 12:40:33] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-12 12:40:34] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-12 12:40:34] [info] [Product 2] Completed processing. Alerts sent: 0
+[2025-11-12 12:40:34] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-12 12:40:34] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-12 12:40:36] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-12 12:40:36] [info] [Product 3] Completed processing. Alerts sent: 0
+[2025-11-12 12:40:37] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1499)
+[2025-11-12 12:40:37] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-12 12:40:38] [info] [Product 4] New price: 1499 (Changed: No)
+[2025-11-12 12:40:38] [info] [Product 4] Completed processing. Alerts sent: 0
+[2025-11-12 12:40:38] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 850)
+[2025-11-12 12:40:38] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-12 12:40:40] [info] [Product 5] New price: 899 (Changed: Yes)
+[2025-11-12 12:40:40] [info] [Product 5] Price history updated
+[2025-11-12 12:40:40] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-12 12:40:41] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-12 12:40:41] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-12 12:40:42] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-12 12:40:42] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-12 12:40:42] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-12 12:40:42] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-12 12:40:42] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-12 12:40:43] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-12 12:40:43] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-12 12:40:45] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-12 12:40:45] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-12 12:40:45] [info] [Product 0] Price check completed. Processed 8 products.
+[2025-11-12 12:42:43] [info] [Product 0] Starting price check for 8 products
+[2025-11-12 12:42:43] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 13000)
+[2025-11-12 12:42:47] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-12 12:42:49] [info] [Product 1] New price: 14499 (Changed: Yes)
+[2025-11-12 12:42:49] [info] [Product 1] Price history updated
+[2025-11-12 12:42:49] [info] [Product 1] Completed processing. Alerts sent: 0
+[2025-11-12 12:42:50] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-12 12:42:52] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-12 12:42:53] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-12 12:42:53] [info] [Product 2] Completed processing. Alerts sent: 0
+[2025-11-12 12:42:53] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-12 12:42:53] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-12 12:42:56] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-12 12:42:56] [info] [Product 3] Completed processing. Alerts sent: 0
+[2025-11-12 12:42:56] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1499)
+[2025-11-12 12:42:59] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-12 12:43:00] [info] [Product 4] New price: 1499 (Changed: No)
+[2025-11-12 12:43:00] [info] [Product 4] Completed processing. Alerts sent: 0
+[2025-11-12 12:43:01] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 850)
+[2025-11-12 12:43:01] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-12 12:43:03] [info] [Product 5] New price: 899 (Changed: Yes)
+[2025-11-12 12:43:03] [info] [Product 5] Price history updated
+[2025-11-12 12:43:03] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-12 12:43:03] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-12 12:43:04] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-12 12:43:05] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-12 12:43:05] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-12 12:43:06] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-12 12:43:06] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-12 12:43:06] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-12 12:43:06] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-12 12:43:06] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-12 12:43:08] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-12 12:43:08] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-12 12:43:08] [info] [Product 0] Price check completed. Processed 8 products.
+[2025-11-12 12:45:53] [info] [Product 0] Starting price check for 8 products
+[2025-11-12 12:45:53] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 14499)
+[2025-11-12 12:45:54] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-12 12:45:54] [info] [Product 1] New price: 14499 (Changed: No)
+[2025-11-12 12:45:54] [info] [Product 1] Completed processing. Alerts sent: 
+[2025-11-12 12:45:55] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-12 12:45:56] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-12 12:45:56] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-12 12:45:56] [info] [Product 2] Completed processing. Alerts sent: 
+[2025-11-12 12:45:57] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-12 12:45:57] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-12 12:45:59] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-12 12:45:59] [info] [Product 3] Completed processing. Alerts sent: 
+[2025-11-12 12:45:59] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1499)
+[2025-11-12 12:46:00] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-12 12:46:01] [info] [Product 4] New price: 1499 (Changed: No)
+[2025-11-12 12:46:01] [info] [Product 4] Completed processing. Alerts sent: 
+[2025-11-12 12:46:01] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 850)
+[2025-11-12 12:46:01] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-12 12:46:03] [info] [Product 5] New price: 899 (Changed: Yes)
+[2025-11-12 12:46:03] [info] [Product 5] Price history updated
+[2025-11-12 12:46:03] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-12 12:46:03] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-12 12:46:04] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-12 12:46:04] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-12 12:46:04] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-12 12:46:05] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-12 12:46:05] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-12 12:46:05] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-12 12:46:06] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-12 12:46:06] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-12 12:46:08] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-12 12:46:08] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-12 12:46:08] [info] [Product 0] Price check completed. Processed 8 products.
+[2025-11-12 12:46:37] [info] [Product 0] Starting price check for 8 products
+[2025-11-12 12:46:37] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 13000)
+[2025-11-12 12:46:38] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-12 12:46:39] [info] [Product 1] New price: 14499 (Changed: Yes)
+[2025-11-12 12:46:39] [info] [Product 1] Price history updated
+[2025-11-12 12:46:39] [info] [Product 1] Completed processing. Alerts sent: 0
+[2025-11-12 12:46:39] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-12 12:46:40] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-12 12:46:41] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-12 12:46:41] [info] [Product 2] Completed processing. Alerts sent: 0
+[2025-11-12 12:46:41] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-12 12:46:41] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-12 12:46:43] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-12 12:46:43] [info] [Product 3] Completed processing. Alerts sent: 0
+[2025-11-12 12:46:44] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1499)
+[2025-11-12 12:46:44] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-12 12:46:45] [info] [Product 4] New price: 1499 (Changed: No)
+[2025-11-12 12:46:45] [info] [Product 4] Completed processing. Alerts sent: 0
+[2025-11-12 12:46:46] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 899)
+[2025-11-12 12:46:46] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-12 12:46:47] [info] [Product 5] New price: 899 (Changed: No)
+[2025-11-12 12:46:47] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-12 12:46:48] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-12 12:46:48] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-12 12:46:48] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-12 12:46:48] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-12 12:46:49] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-12 12:46:49] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-12 12:46:49] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-12 12:46:50] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-12 12:46:50] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-12 12:46:52] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-12 12:46:52] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-12 12:46:52] [info] [Product 0] Price check completed. Processed 8 products.
+[2025-11-12 12:48:12] [info] [Product 0] Starting price check for 8 products
+[2025-11-12 12:48:12] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 13000)
+[2025-11-12 12:48:13] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-12 12:48:13] [info] [Product 1] New price: 14499 (Changed: Yes)
+[2025-11-12 12:48:13] [info] [Product 1] Price history updated
+[2025-11-12 12:48:13] [info] [Product 1] Completed processing. Alerts sent: 0
+[2025-11-12 12:48:14] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-12 12:48:14] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-12 12:48:15] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-12 12:48:15] [info] [Product 2] Completed processing. Alerts sent: 0
+[2025-11-12 12:48:16] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-12 12:48:16] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-12 12:48:17] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-12 12:48:17] [info] [Product 3] Completed processing. Alerts sent: 0
+[2025-11-12 12:48:18] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1499)
+[2025-11-12 12:48:19] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-12 12:48:19] [info] [Product 4] New price: 1499 (Changed: No)
+[2025-11-12 12:48:19] [info] [Product 4] Completed processing. Alerts sent: 0
+[2025-11-12 12:48:20] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 899)
+[2025-11-12 12:48:20] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-12 12:48:21] [info] [Product 5] New price: 899 (Changed: No)
+[2025-11-12 12:48:21] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-12 12:48:22] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-12 12:48:22] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-12 12:48:23] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-12 12:48:23] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-12 12:48:23] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-12 12:48:23] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-12 12:48:23] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-12 12:48:24] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-12 12:48:24] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-12 12:48:26] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-12 12:48:26] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-12 12:48:26] [info] [Product 0] Price check completed. Processed 8 products.
+[2025-11-12 12:50:19] [info] [Product 0] Starting price check for 8 products
+[2025-11-12 12:50:19] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 13000)
+[2025-11-12 12:50:20] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-12 12:50:26] [error] [Product 1] Error processing product: Invalid price returned: 0
+[2025-11-12 12:50:27] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-12 12:50:27] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-12 12:50:29] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-12 12:50:29] [info] [Product 2] Completed processing. Alerts sent: 0
+[2025-11-12 12:50:30] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-12 12:50:30] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-12 12:50:31] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-12 12:50:31] [info] [Product 3] Completed processing. Alerts sent: 0
+[2025-11-12 12:50:32] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1499)
+[2025-11-12 12:50:32] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-12 12:50:34] [info] [Product 4] New price: 1499 (Changed: No)
+[2025-11-12 12:50:34] [info] [Product 4] Completed processing. Alerts sent: 0
+[2025-11-12 12:50:35] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 899)
+[2025-11-12 12:50:35] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-12 12:50:36] [info] [Product 5] New price: 899 (Changed: No)
+[2025-11-12 12:50:36] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-12 12:50:37] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-12 12:50:37] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-12 12:50:37] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-12 12:50:37] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-12 12:50:38] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-12 12:50:38] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-12 12:50:38] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-12 12:50:39] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-12 12:50:39] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-12 12:50:41] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-12 12:50:41] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-12 12:50:41] [info] [Product 0] Price check completed. Processed 8 products.
+[2025-11-12 12:51:09] [info] [Product 0] Starting price check for 8 products
+[2025-11-12 12:51:09] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 13000)
+[2025-11-12 12:51:09] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-12 12:51:12] [info] [Product 1] New price: 14499 (Changed: Yes)
+[2025-11-12 12:51:12] [info] [Product 1] Price history updated
+[2025-11-12 12:51:12] [info] [Product 1] Completed processing. Alerts sent: 0
+[2025-11-12 12:51:12] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-12 12:51:13] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-12 12:51:14] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-12 12:51:14] [info] [Product 2] Completed processing. Alerts sent: 0
+[2025-11-12 12:51:14] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-12 12:51:14] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-12 12:51:16] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-12 12:51:16] [info] [Product 3] Completed processing. Alerts sent: 0
+[2025-11-12 12:51:16] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1499)
+[2025-11-12 12:51:17] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-12 12:51:18] [info] [Product 4] New price: 1499 (Changed: No)
+[2025-11-12 12:51:18] [info] [Product 4] Completed processing. Alerts sent: 0
+[2025-11-12 12:51:18] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 899)
+[2025-11-12 12:51:18] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-12 12:51:20] [info] [Product 5] New price: 899 (Changed: No)
+[2025-11-12 12:51:20] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-12 12:51:21] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-12 12:51:21] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-12 12:51:22] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-12 12:51:22] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-12 12:51:22] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-12 12:51:22] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-12 12:51:22] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-12 12:51:23] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-12 12:51:23] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-12 12:51:25] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-12 12:51:25] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-12 12:51:25] [info] [Product 0] Price check completed. Processed 8 products.
+[2025-11-13 09:57:22] [info] [Product 0] Starting price check for 8 products
+[2025-11-13 09:57:22] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 14499)
+[2025-11-13 09:57:24] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-13 09:57:25] [info] [Product 1] New price: 14499 (Changed: No)
+[2025-11-13 09:57:25] [info] [Product 1] Completed processing. Alerts sent: 0
+[2025-11-13 09:57:25] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-13 09:57:26] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-13 09:57:27] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-13 09:57:27] [info] [Product 2] Completed processing. Alerts sent: 0
+[2025-11-13 09:57:28] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-13 09:57:28] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-13 09:57:30] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-13 09:57:30] [info] [Product 3] Completed processing. Alerts sent: 0
+[2025-11-13 09:57:30] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1499)
+[2025-11-13 09:57:31] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-13 09:57:32] [info] [Product 4] New price: 1499 (Changed: No)
+[2025-11-13 09:57:32] [info] [Product 4] Completed processing. Alerts sent: 0
+[2025-11-13 09:57:32] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 899)
+[2025-11-13 09:57:32] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-13 09:57:34] [info] [Product 5] New price: 899 (Changed: No)
+[2025-11-13 09:57:34] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-13 09:57:34] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-13 09:57:35] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-13 09:57:36] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-13 09:57:36] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-13 09:57:36] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-13 09:57:37] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-13 09:57:37] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-13 09:57:38] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-13 09:57:38] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-13 09:57:40] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-13 09:57:40] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-13 09:57:40] [info] [Product 0] Price check completed. Processed 8 products.
+[2025-11-13 10:23:21] [info] [Product 0] Starting price check for 8 products
+[2025-11-13 10:23:21] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 14499)
+[2025-11-13 10:23:22] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-13 10:23:23] [info] [Product 1] New price: 14499 (Changed: No)
+[2025-11-13 10:23:23] [info] [Product 1] Completed processing. Alerts sent: 0
+[2025-11-13 10:23:23] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-13 10:23:24] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-13 10:23:25] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-13 10:23:25] [info] [Product 2] Completed processing. Alerts sent: 0
+[2025-11-13 10:23:25] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-13 10:23:25] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-13 10:23:27] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-13 10:23:27] [info] [Product 3] Completed processing. Alerts sent: 0
+[2025-11-13 10:23:28] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1499)
+[2025-11-13 10:23:28] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-13 10:23:29] [info] [Product 4] New price: 1499 (Changed: No)
+[2025-11-13 10:23:29] [info] [Product 4] Completed processing. Alerts sent: 0
+[2025-11-13 10:23:30] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 899)
+[2025-11-13 10:23:30] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-13 10:23:32] [info] [Product 5] New price: 899 (Changed: No)
+[2025-11-13 10:23:32] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-13 10:23:32] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-13 10:23:33] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-13 10:23:33] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-13 10:23:33] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-13 10:23:33] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-13 10:23:33] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-13 10:23:34] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-13 10:23:34] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-13 10:23:34] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-13 10:23:36] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-13 10:23:36] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-13 10:23:36] [info] [Product 0] Price check completed. Processed 8 products.
+[2025-11-13 10:24:54] [info] [Product 0] Starting price check for 8 products
+[2025-11-13 10:24:54] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 14499)
+[2025-11-13 10:24:55] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-13 10:24:56] [info] [Product 1] New price: 14499 (Changed: No)
+[2025-11-13 10:24:56] [info] [Product 1] Completed processing. Alerts sent: 0
+[2025-11-13 10:24:56] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-13 10:24:57] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-13 10:24:58] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-13 10:24:58] [info] [Product 2] Completed processing. Alerts sent: 0
+[2025-11-13 10:24:58] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-13 10:24:58] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-13 10:25:00] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-13 10:25:00] [info] [Product 3] Completed processing. Alerts sent: 0
+[2025-11-13 10:25:01] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1499)
+[2025-11-13 10:25:01] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-13 10:25:02] [info] [Product 4] New price: 1499 (Changed: No)
+[2025-11-13 10:25:02] [info] [Product 4] Completed processing. Alerts sent: 0
+[2025-11-13 10:25:03] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 899)
+[2025-11-13 10:25:03] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-13 10:25:04] [info] [Product 5] New price: 899 (Changed: No)
+[2025-11-13 10:25:04] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-13 10:25:05] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-13 10:25:06] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-13 10:25:06] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-13 10:25:06] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-13 10:25:06] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-13 10:25:07] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-13 10:25:07] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-13 10:25:07] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-13 10:25:07] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-13 10:25:09] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-13 10:25:09] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-13 10:25:09] [info] [Product 0] Price check completed. Processed 8 products.
+[2025-11-13 10:30:31] [info] [Product 0] Starting price check for 9 products
+[2025-11-13 10:30:31] [info] [Product 1] Processing product: vivo T4x 5G ( 128 GB Storage, 6 GB RAM ) Online at Best Prices (Current price: 14499)
+[2025-11-13 10:30:32] [info] [Product 1] API fetch failed, falling back to web scraping
+[2025-11-13 10:30:33] [info] [Product 1] New price: 14499 (Changed: No)
+[2025-11-13 10:30:33] [info] [Product 1] Completed processing. Alerts sent: 0
+[2025-11-13 10:30:33] [info] [Product 2] Processing product: vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Price in India - Buy vivo TWS 3e buds up-to 30dB Active Noise Cancellation |up-to 42 Hrs battery life Bluetooth Online - vivo : Flipkart.com (Current price: 1899)
+[2025-11-13 10:30:34] [info] [Product 2] API fetch failed, falling back to web scraping
+[2025-11-13 10:30:35] [info] [Product 2] New price: 1899 (Changed: No)
+[2025-11-13 10:30:35] [info] [Product 2] Completed processing. Alerts sent: 0
+[2025-11-13 10:30:35] [info] [Product 3] Processing product: Skybags Unisex Brat 20L Premium Polyester Adjustable Straps 4 Compartment Backpack (E) Navy (Current price: 589)
+[2025-11-13 10:30:35] [info] [Product 3] API fetch failed, falling back to web scraping
+[2025-11-13 10:30:37] [info] [Product 3] New price: 589 (Changed: No)
+[2025-11-13 10:30:37] [info] [Product 3] Completed processing. Alerts sent: 0
+[2025-11-13 10:30:38] [info] [Product 4] Processing product: Buy boAt Stone 350 Pro/358 Pro, Music Streaming on JioSaavn,12 HRS Playback, IPX5 14 W Bluetooth Speaker Online from Flipkart.com (Current price: 1499)
+[2025-11-13 10:30:39] [info] [Product 4] API fetch failed, falling back to web scraping
+[2025-11-13 10:30:39] [info] [Product 4] New price: 1499 (Changed: No)
+[2025-11-13 10:30:39] [info] [Product 4] Completed processing. Alerts sent: 0
+[2025-11-13 10:30:40] [info] [Product 5] Processing product: Bewakoof Women's Cotton Super Loose Fit Joggers|Bewakoof Air 1.0 | Track pants for woman | Lower for women | Multipurpose | Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers (Current price: 899)
+[2025-11-13 10:30:40] [info] [Product 5] API fetch failed, falling back to web scraping
+[2025-11-13 10:30:42] [info] [Product 5] New price: 899 (Changed: No)
+[2025-11-13 10:30:42] [info] [Product 5] Completed processing. Alerts sent: 0
+[2025-11-13 10:30:42] [info] [Product 6] Processing product: Buy Jockey Combed Cotton Brief With Ultrasoft Waistband 8037 -  - Apparel for Men (Current price: 209)
+[2025-11-13 10:30:42] [info] [Product 6] API fetch failed, falling back to web scraping
+[2025-11-13 10:30:43] [info] [Product 6] New price: 209 (Changed: No)
+[2025-11-13 10:30:43] [info] [Product 6] Completed processing. Alerts sent: 0
+[2025-11-13 10:30:44] [info] [Product 7] Processing product: Buy Continental XTRA Coffee Powder 50g Pouch| Strongest Instant Coffee | PACK OF 2 Online at Best Prices in India - JioMart. (Current price: 0)
+[2025-11-13 10:30:44] [info] [Product 7] API fetch failed, falling back to web scraping
+[2025-11-13 10:30:44] [error] [Product 7] Error processing product: Invalid price returned: 0
+[2025-11-13 10:30:44] [info] [Product 8] Processing product: BEHOMA Aluminium Dancing Peacock Pair Figurine for Good Luck & Love (Current price: 2599)
+[2025-11-13 10:30:44] [info] [Product 8] API fetch failed, falling back to web scraping
+[2025-11-13 10:30:46] [info] [Product 8] New price: 2599 (Changed: No)
+[2025-11-13 10:30:46] [info] [Product 8] Completed processing. Alerts sent: 0
+[2025-11-13 10:30:47] [info] [Product 9] Processing product: Apple iPhone 16 (Black, 128 GB) (Current price: 69900)
+[2025-11-13 10:30:48] [info] [Product 9] API fetch failed, falling back to web scraping
+[2025-11-13 10:30:48] [info] [Product 9] New price: 69900 (Changed: No)
+[2025-11-13 10:30:48] [info] [Product 9] Completed processing. Alerts sent: 0
+[2025-11-13 10:30:48] [info] [Product 0] Price check completed. Processed 9 products.
